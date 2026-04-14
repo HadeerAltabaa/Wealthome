@@ -71,7 +71,7 @@ This project was created as part of a learning journey in web development to pra
 
 ## 📸 Screenshots
 
-*(You can add screenshots here later for better presentation)*
+![Home Page](assets/images/home-page.png)
 
 ---
 
