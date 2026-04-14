@@ -39,26 +39,6 @@ Wealthome/
 
 ---
 
-## 🚀 Getting Started
-
-To run the project locally:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Wealthome.git
-```
-
-2. Open the project folder:
-
-```bash
-cd Wealthome
-```
-
-3. Open `index.html` in your browser.
-
----
-
 ## 🎯 Purpose
 
 This project was created as part of a learning journey in web development to practice:
